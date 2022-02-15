@@ -12,7 +12,7 @@ npm install --save
 
 ## Usage
 
-```python
+```bash
 # start project locally
 npm start
 ```
